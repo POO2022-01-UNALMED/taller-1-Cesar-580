@@ -1,1 +1,1 @@
-Ningun error
+Ningun error, pero si una falla y es que cuando se crea una carpeta vacia, git no toma esto como un cambio
