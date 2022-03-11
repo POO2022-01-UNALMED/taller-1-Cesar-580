@@ -1,0 +1,1 @@
+Cesar Augusto Ospina Muñoz- 22 - Llegar plasmar la abstracción de un problema real (modelo de clases) en un aplicativo funcional.
