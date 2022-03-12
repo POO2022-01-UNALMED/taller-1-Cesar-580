@@ -1,1 +1,1 @@
-ingrese a continuación algún hobby de su interés: Montar bicicleta
+“ingrese a continuación algún hobby de su interés:”.
